@@ -30,3 +30,7 @@ Vibe Coding Project - Was allotted a buggy rock paper scissors game, that I had 
 Was allotted a college hostel room allocation system. It reads a YAML room configuration, allocates beds by block and gender, vacates rooms, calculates fees, orders students by seniority, runs a room lottery, counts vacant beds, and includes a small Flask page for looking up a student's room.
 
 The code worked, but it had quality, style and security problems that I evaluated and fixed using Pylint, Flake8 and Bandit.
+
+<h3> Lab - 06: </h3>
+
+Allotted a phone repair quote project, for which I wrote additional test cases to enhance code and branch coverage.
