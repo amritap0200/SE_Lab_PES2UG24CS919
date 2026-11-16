@@ -34,3 +34,7 @@ The code worked, but it had quality, style and security problems that I evaluate
 <h3> Lab - 06: </h3>
 
 Allotted a phone repair quote project, for which I wrote additional test cases to enhance code and branch coverage.
+
+<h3> Lab - 07: </h3>
+
+Explored fuzz testing as a security and quality assurance technique by identifying and fixing bugs in the python script provided, using the Hypothesis fuzzing library.
